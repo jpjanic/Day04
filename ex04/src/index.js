@@ -1,9 +1,9 @@
-function main(){
+function main() {
 
     //Only change code below this line
     
     var myDecimal = 8.2;
-    var myDecimalE = 254E-5;
+    var myDecimalE = 254e-5;
     
     //Only change code above this line
     return {
